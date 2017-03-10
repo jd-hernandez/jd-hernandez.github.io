@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Coding Qualia</title>
+    <link>https://jd-hernandez.github.io/post/index.xml</link>
+    <description>Recent content in Posts on Coding Qualia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jd.hernandez@gmail.com (Jorge Hernandez)</managingEditor>
+    <webMaster>jd.hernandez@gmail.com (Jorge Hernandez)</webMaster>
+    <lastBuildDate>Fri, 10 Mar 2017 10:18:01 -0600</lastBuildDate>
+    <atom:link href="https://jd-hernandez.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Initial Commit</title>
+      <link>https://jd-hernandez.github.io/post/initial-commit/</link>
+      <pubDate>Fri, 10 Mar 2017 10:18:01 -0600</pubDate>
+      <author>jd.hernandez@gmail.com (Jorge Hernandez)</author>
+      <guid>https://jd-hernandez.github.io/post/initial-commit/</guid>
+      <description>&lt;p&gt;Initial commit. Barebones, no code other than those from the frameworks used. A slate, not clean, but prepared, upon which to build. That&amp;rsquo;s what that commit message has always meant for me. So it is with this blog.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
